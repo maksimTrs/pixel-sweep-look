@@ -1,0 +1,14 @@
+{
+  "name": "pixel-sweep-look",
+  "owner": {
+    "name": "maksimTrs"
+  },
+  "description": "Pixel Sweep, a calm near-black theme for the Claude desktop app.",
+  "plugins": [
+    {
+      "name": "pixel-sweep-look",
+      "source": "./",
+      "description": "A calm near-black theme with dim green pixel islands and a slow light band; a cool paper day mode."
+    }
+  ]
+}

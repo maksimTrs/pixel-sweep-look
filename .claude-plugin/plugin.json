@@ -1,0 +1,20 @@
+{
+  "name": "pixel-sweep-look",
+  "displayName": "Pixel Sweep",
+  "version": "1.1.0",
+  "description": "Pixel Sweep: a calm near-black theme for the Claude desktop app with dim green pixel islands and a slow, soft light band; a cool paper version with soft blue pixels for day.",
+  "author": {
+    "name": "maksimTrs"
+  },
+  "homepage": "https://github.com/maksimTrs/pixel-sweep-look",
+  "repository": "https://github.com/maksimTrs/pixel-sweep-look",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "look",
+    "mod",
+    "desktop",
+    "pixel-art",
+    "dark-mode"
+  ]
+}
